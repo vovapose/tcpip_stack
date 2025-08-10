@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "erproc.h": "c",
+        "prctl.h": "c",
+        "socket.h": "c",
+        "compare": "cpp",
+        "utils.h": "c",
+        "tuntap.h": "c",
+        "ethernet.h": "c",
+        "syshead.h": "c",
+        
+    }
+    
+
+ 
+}

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/media/sf_tcip_stack/include", 
+                "${workspaceFolder}/src",
+                "/usr/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "c++98",
+            "C_Cpp.intelliSenseEngine": "Disabled",
+            "clangd.enabled": true
+        }
+    ],
+    "version": 4
+}
